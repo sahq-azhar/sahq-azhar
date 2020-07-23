@@ -23,7 +23,7 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 </p>
 
 
-**Link to my apps on Google Play Store:**
+**Link to my Apps on Google Play Store:**
 -----------------------------------------------------------------
 </a>
 
