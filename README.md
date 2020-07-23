@@ -1,7 +1,4 @@
-<p align='center'>
 <h1 align='center'>👋 🤖 Hey, This is Syed Azhar Hussain Quadri </h1><br>
-</a>
-<br/>
 
 <p align='center'>
 I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
