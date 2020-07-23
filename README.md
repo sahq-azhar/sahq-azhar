@@ -1,4 +1,4 @@
-### 🤖 Hey, This is Syed Azhar Hussain Quadri 
+## 🤖 Hey, This is Syed Azhar Hussain Quadri 
 </a>
 
 <br />
@@ -11,7 +11,7 @@
 
 
 
-**Link to my apps on Google Play Store:**  
+**Link to my apps on Google Play Store:**
 -----------------------------------------------------------------
 </a>
 
