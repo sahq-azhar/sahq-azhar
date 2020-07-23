@@ -22,9 +22,6 @@
 </p>
 
 
-
-
-
 **Link to my apps on Google Play Store:**
 -----------------------------------------------------------------
 </a>
@@ -54,4 +51,10 @@
 <code><img height="40" src="https://i.ibb.co/L6M6rWH/1200px-Java-programming-language-logo-svg.png"></code>
 <code><img height="30" src="https://i.ibb.co/CPDDRmh/1200px-Python-logo-notext-svg.png"></code>
 <code><img height="30" src="https://i.ibb.co/rxfKP6n/fi0fu2k24eo31.png"></code>
+
+
+
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
+
+
 
