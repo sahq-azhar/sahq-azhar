@@ -52,9 +52,8 @@
 <code><img height="30" src="https://i.ibb.co/CPDDRmh/1200px-Python-logo-notext-svg.png"></code>
 <code><img height="30" src="https://i.ibb.co/rxfKP6n/fi0fu2k24eo31.png"></code>
 
-
+-----------------------------------------------------------------
 
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
-
 
 
