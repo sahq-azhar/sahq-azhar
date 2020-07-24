@@ -43,6 +43,8 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 <code><img height="30" src="https://i.ibb.co/D9MSWjz/Matlab-Logo.png"></code>
 <code><img height="30" src="https://i.ibb.co/Jv5pMF3/1200px-Visual-Studio-Code-1-35-icon-svg.png"></code>
 <code><img height="30" src="https://i.ibb.co/NKpTZ97/Code-Vision-AVR.png"></code>
+<code><img height="30" src="https://i.ibb.co/Jk9vsbn/My-SQL-Logo.png"></code>
+
 
 **Languages:**  
 -----------------------------------------------------------------
