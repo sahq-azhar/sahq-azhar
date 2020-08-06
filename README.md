@@ -23,6 +23,9 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 </p>
 
 
+**Other Link:**
+-----------------------------------------------------------------
+[![Stack Overflow: sahq_azhar](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/12240101/sahq-azhar)](https://stackoverflow.com/users/12240101/sahq-azhar)<br>
 
 **Link to my Apps on Google Play Store:**
 -----------------------------------------------------------------
@@ -62,7 +65,6 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 
 
 -----------------------------------------------------------------
-[![Stack Overflow: sahq_azhar](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/12240101/sahq-azhar)](https://stackoverflow.com/users/12240101/sahq-azhar)<br>
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 ![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)<br>
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
