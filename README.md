@@ -1,4 +1,4 @@
-<h1 align='center'><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"> 🤖 Hey, This is Syed Azhar Hussain Quadri </h1><br>
+<h1 align='center'><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 🤖 Hey, This is Syed Azhar Hussain Quadri </h1><br>
 
 <p align='center'>
 I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
