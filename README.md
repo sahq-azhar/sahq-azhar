@@ -13,7 +13,7 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 <a href="https://www.linkedin.com/in/syed-azhar-hussain-quadri-492512173/" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a> &nbsp  <a href="https://www.instagram.com/sahq_azhar/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a><a href="https://www.reddit.com/user/sahq_azhar" target="_blank" title="Reddit"><img height="28" src="https://i.ibb.co/v3FLkCK/52053.png"></i></a> <a href="mailto:azharhussain7a@gmail.com?subject=[GitHub]%20Source%20Han%20Sans" target="_blank" title="Mail"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg"></i></a>   
 </p>
 
-[![Stack Overflow: sahq_azhar](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/12240101/sahq-azhar)](https://stackoverflow.com/users/12240101/sahq-azhar)
+
 
 
 <p align='center'> 📇 Get in touch with my Startup </p>  
@@ -22,6 +22,7 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 <a href="https://www.linkedin.com/company/zn-developers/?viewAsMember=true" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a> &nbsp  <a href="https://www.instagram.com/developers_zn/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a> &nbsp  <a href="mailto:developerszn@gmail.com?subject=[GitHub]%20Source%20Han%20Sans" target="_blank" title="Mail"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg"></i></a>   
 </p>
 
+[![Stack Overflow: sahq_azhar](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/12240101/sahq-azhar)](https://stackoverflow.com/users/12240101/sahq-azhar)
 
 **Link to my Apps on Google Play Store:**
 -----------------------------------------------------------------
