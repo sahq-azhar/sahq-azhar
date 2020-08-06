@@ -22,7 +22,7 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 <a href="https://www.linkedin.com/company/zn-developers/?viewAsMember=true" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a> &nbsp  <a href="https://www.instagram.com/developers_zn/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a> &nbsp  <a href="mailto:developerszn@gmail.com?subject=[GitHub]%20Source%20Han%20Sans" target="_blank" title="Mail"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg"></i></a>   
 </p>
 
-[![Stack Overflow: sahq_azhar](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/12240101/sahq-azhar)](https://stackoverflow.com/users/12240101/sahq-azhar)
+
 
 **Link to my Apps on Google Play Store:**
 -----------------------------------------------------------------
@@ -62,7 +62,7 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 
 
 -----------------------------------------------------------------
-
+[![Stack Overflow: sahq_azhar](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/12240101/sahq-azhar)](https://stackoverflow.com/users/12240101/sahq-azhar)<br>
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 ![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)<br>
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
