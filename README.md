@@ -65,3 +65,4 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)]<br>
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)]
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
