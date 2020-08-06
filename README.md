@@ -62,5 +62,6 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 -----------------------------------------------------------------
 
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
-[![HitCount](http://hits.dwyl.com/sahq-azhar/{project}.svg)](http://hits.dwyl.com/sahq-azhar/{project})
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
