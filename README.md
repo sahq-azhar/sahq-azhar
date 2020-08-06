@@ -1,4 +1,4 @@
-<h1 align='center'>👋 🤖 Hey, This is Syed Azhar Hussain Quadri </h1><br>
+<h1 align='center'><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"> 🤖 Hey, This is Syed Azhar Hussain Quadri </h1><br>
 
 <p align='center'>
 I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
@@ -62,5 +62,5 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 -----------------------------------------------------------------
 
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
-
+[![HitCount](http://hits.dwyl.com/sahq-azhar/{project}.svg)](http://hits.dwyl.com/sahq-azhar/{project})
 
