@@ -36,11 +36,15 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
          width=150" >
       </a>
                                
-                               
-
-
-**Tools:**  
------------------------------------------------------------------
+                 
+<table>
+ 
+  <tr>
+            <th>Tools</th>  
+           <th>Languages</th>  
+</tr>
+         <tr>
+<td>       
 
 <code><img height="30" src="https://i.ibb.co/tmWfdJ1/1200px-Android-Studio-icon-svg.png"></code>
 <code><img height="30" src="https://i.ibb.co/zPHVQJn/arduino-1-logo.png"></code>
@@ -50,10 +54,9 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 <code><img height="30" src="https://i.ibb.co/Jk9vsbn/My-SQL-Logo.png"></code>
 <code><img height="30" src="https://i.ibb.co/4KSPc43/logo-flutter-1080px-clr.png"></code>
 <code><img height="30" src="https://i.ibb.co/QD0gH2N/380-3804499-firebase-logo-google-logo-firebase-firebase-png.png"></code>
+</td>
 
-
-**Languages:**  
------------------------------------------------------------------
+<td> 
 
 <code><img height="30" src="https://i.ibb.co/D4x3X3P/101-1010012-c-programming-icon-c-programming-language-logo.png"></code>
 <code><img height="30" src="https://i.ibb.co/0BYMFQ5/1200px-ISO-C-Logo-svg.png"></code>
@@ -61,8 +64,10 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 <code><img height="30" src="https://i.ibb.co/CPDDRmh/1200px-Python-logo-notext-svg.png"></code>
 <code><img height="30" src="https://i.ibb.co/rxfKP6n/fi0fu2k24eo31.png"></code>
 <code><img height="30" src="https://i.ibb.co/gjz4gsc/tzt-EDWYGDh-Uiu-Tq-AHBz-Q77n-YRvw8ol-FYj-Bcn-Ur-Icfw-Yw-INFr-INo-B3s-Y-O0pilc-Cg-LJ46e-EWNYBnh-Lr-TH.png"></code>
+</td>
+</tr>
 
-
+</table>
 
 -----------------------------------------------------------------
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
