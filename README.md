@@ -70,7 +70,7 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 </table>
 
 -----------------------------------------------------------------
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)] 
 ![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)<br>
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 ![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)
