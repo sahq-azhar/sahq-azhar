@@ -40,8 +40,8 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 <table>
  
   <tr>
-            <th>Tools</th>  
-           <th>Languages</th>  
+            <th><h2 align='center'>Tools</th>  
+           <th><h2 align='center'>Languages</th>  
 </tr>
          <tr>
 <td>       
