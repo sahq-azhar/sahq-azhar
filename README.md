@@ -57,7 +57,7 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 <code><img height="28" src="https://i.ibb.co/D4x3X3P/101-1010012-c-programming-icon-c-programming-language-logo.png"></code>
 <code><img height="28" src="https://i.ibb.co/0BYMFQ5/1200px-ISO-C-Logo-svg.png"></code>
 <code><img height="38" src="https://i.ibb.co/L6M6rWH/1200px-Java-programming-language-logo-svg.png"></code>
-<code><img height="28" src="https://i.ibb.co/CPDDRmh/1200px-Python-logo-notext-svg.png"></code>  &nbsp
+<code><img height="28" src="https://i.ibb.co/CPDDRmh/1200px-Python-logo-notext-svg.png"></code><br><br>
 <code><img height="28" src="https://i.ibb.co/rxfKP6n/fi0fu2k24eo31.png"></code>
 <code><img height="28" src="https://i.ibb.co/gjz4gsc/tzt-EDWYGDh-Uiu-Tq-AHBz-Q77n-YRvw8ol-FYj-Bcn-Ur-Icfw-Yw-INFr-INo-B3s-Y-O0pilc-Cg-LJ46e-EWNYBnh-Lr-TH.png"></code>
 </td>
