@@ -64,11 +64,10 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 </td>
 </table>
 
-<p align="center">
+
 <a href="https://github.com/sahq-azhar">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahq-azhar&theme=vue&layout=compact" />
 </a>
-</p>
 
 -----------------------------------------------------------------
 ![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) 
