@@ -39,13 +39,11 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 -----------------------------------------------------------------                 
 <table>
  
-  <tr>
+<tr>
             <th><h2 align='center'>Tools</th>  
            <th><h2 align='center'>Languages</th>  
-</tr>
-         
+</tr>      
 <td>       
-
 <code><img height="28" src="https://i.ibb.co/tmWfdJ1/1200px-Android-Studio-icon-svg.png"></code>
 <code><img height="28" src="https://i.ibb.co/zPHVQJn/arduino-1-logo.png"></code>
 <code><img height="28" src="https://i.ibb.co/D9MSWjz/Matlab-Logo.png"></code>
@@ -56,9 +54,7 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 <code><img height="28" src="https://i.ibb.co/QD0gH2N/380-3804499-firebase-logo-google-logo-firebase-firebase-png.png"></code>
 <code><img height="28" src="https://i.ibb.co/55ZjKfg/Git-Icon-1788-C.png"></code>
 </td>
-
 <td> 
-
 <code><img height="28" src="https://i.ibb.co/D4x3X3P/101-1010012-c-programming-icon-c-programming-language-logo.png"></code>
 <code><img height="28" src="https://i.ibb.co/0BYMFQ5/1200px-ISO-C-Logo-svg.png"></code>
 <code><img height="38" src="https://i.ibb.co/L6M6rWH/1200px-Java-programming-language-logo-svg.png"></code>
@@ -66,9 +62,13 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 <code><img height="28" src="https://i.ibb.co/rxfKP6n/fi0fu2k24eo31.png"></code>
 <code><img height="28" src="https://i.ibb.co/gjz4gsc/tzt-EDWYGDh-Uiu-Tq-AHBz-Q77n-YRvw8ol-FYj-Bcn-Ur-Icfw-Yw-INFr-INo-B3s-Y-O0pilc-Cg-LJ46e-EWNYBnh-Lr-TH.png"></code>
 </td>
-
-
 </table>
+
+<p align="center">
+<a href="https://github.com/sahq-azhar">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahq-azhar&theme=vue&layout=compact" />
+</a>
+</p>
 
 -----------------------------------------------------------------
 ![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) 
