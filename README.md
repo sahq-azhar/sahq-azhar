@@ -75,3 +75,4 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 ![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
