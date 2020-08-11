@@ -45,8 +45,8 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 <code><img height="28" src="https://i.ibb.co/tmWfdJ1/1200px-Android-Studio-icon-svg.png"></code>
 <code><img height="28" src="https://i.ibb.co/zPHVQJn/arduino-1-logo.png"></code>
 <code><img height="28" src="https://i.ibb.co/D9MSWjz/Matlab-Logo.png"></code>
-<code><img height="28" src="https://i.ibb.co/Jv5pMF3/1200px-Visual-Studio-Code-1-35-icon-svg.png"></code>
-<code><img height="28" src="https://i.ibb.co/NKpTZ97/Code-Vision-AVR.png"></code><br><br>
+<code><img height="28" src="https://i.ibb.co/Jv5pMF3/1200px-Visual-Studio-Code-1-35-icon-svg.png"></code>br><br>
+<code><img height="28" src="https://i.ibb.co/NKpTZ97/Code-Vision-AVR.png"></code>
 <code><img height="28" src="https://i.ibb.co/Jk9vsbn/My-SQL-Logo.png"></code>
 <code><img height="28" src="https://i.ibb.co/4KSPc43/logo-flutter-1080px-clr.png"></code>
 <code><img height="28" src="https://i.ibb.co/QD0gH2N/380-3804499-firebase-logo-google-logo-firebase-firebase-png.png"></code>
@@ -63,7 +63,7 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 </td>
 <td>
 <a href="https://github.com/sahq-azhar">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahq-azhar&theme=vue&layout=compact" />
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahq-azhar&theme=vue&layout=compact" />
 </a>
 </td>
 </table>
