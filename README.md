@@ -54,6 +54,7 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 <code><img height="30" src="https://i.ibb.co/Jk9vsbn/My-SQL-Logo.png"></code>
 <code><img height="30" src="https://i.ibb.co/4KSPc43/logo-flutter-1080px-clr.png"></code>
 <code><img height="30" src="https://i.ibb.co/QD0gH2N/380-3804499-firebase-logo-google-logo-firebase-firebase-png.png"></code>
+<code><img height="30" src="https://i.ibb.co/55ZjKfg/Git-Icon-1788-C.png"></code>
 </td>
 
 <td> 
@@ -64,7 +65,6 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 <code><img height="30" src="https://i.ibb.co/CPDDRmh/1200px-Python-logo-notext-svg.png"></code>
 <code><img height="30" src="https://i.ibb.co/rxfKP6n/fi0fu2k24eo31.png"></code>
 <code><img height="30" src="https://i.ibb.co/gjz4gsc/tzt-EDWYGDh-Uiu-Tq-AHBz-Q77n-YRvw8ol-FYj-Bcn-Ur-Icfw-Yw-INFr-INo-B3s-Y-O0pilc-Cg-LJ46e-EWNYBnh-Lr-TH.png"></code>
-<code><img height="30" src="https://i.ibb.co/55ZjKfg/Git-Icon-1788-C.png"></code>
 </td>
 </tr>
 
