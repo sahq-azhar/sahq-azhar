@@ -62,6 +62,12 @@ I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
 <code><img height="28" src="https://i.ibb.co/rxfKP6n/fi0fu2k24eo31.png"></code>
 <code><img height="28" src="https://i.ibb.co/gjz4gsc/tzt-EDWYGDh-Uiu-Tq-AHBz-Q77n-YRvw8ol-FYj-Bcn-Ur-Icfw-Yw-INFr-INo-B3s-Y-O0pilc-Cg-LJ46e-EWNYBnh-Lr-TH.png"></code>
 </td>
+<td>
+ <td>
+<a href="https://github.com/sahq-azhar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahq-azhar&theme=vue&layout=compact" />
+</a>
+</td>
 </table>
 
 
