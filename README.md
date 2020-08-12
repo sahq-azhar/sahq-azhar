@@ -1,4 +1,5 @@
-<h1 align='center'><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> 🤖 Hey, This is Syed Azhar Hussain Quadri </h1><br>
+<h1 align='center'> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> 🤖 Hey, This is Syed Azhar Hussain Quadri <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50"></h1><br>
+
 
 <p align='center'>
 I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
