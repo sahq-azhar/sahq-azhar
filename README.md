@@ -2,7 +2,7 @@
 
 
 <p align='center'>
-🚀I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
+🚀 I’m a Programmer, a Full stack developer and a Robotic enthusiast.<br>
          💡 I founded an App Development startup called ZN-Developers in 2018.<br>
         🧠 focuses on Android Studio, MATLAB <br>
          💪 codes for contributing to life. contributing to the community
