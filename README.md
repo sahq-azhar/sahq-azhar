@@ -48,7 +48,7 @@
 <code><img height="28" src="https://i.ibb.co/zPHVQJn/arduino-1-logo.png" title="Arduino"></code>
 <code><img height="28" src="https://i.ibb.co/D9MSWjz/Matlab-Logo.png" title="MATLAB"></code>
 <code><img height="28" src="https://i.ibb.co/Jv5pMF3/1200px-Visual-Studio-Code-1-35-icon-svg.png" title="VS Code"></code><br>
-<code><img height="28" src="https://i.ibb.co/NKpTZ97/Code-Vision-AVR.png"></code>
+<code><img height="28" src="https://i.ibb.co/NKpTZ97/Code-Vision-AVR.png" title="Code-Vision-AVR"></code>
 <code><img height="28" src="https://i.ibb.co/Jk9vsbn/My-SQL-Logo.png"></code>
 <code><img height="28" src="https://i.ibb.co/4KSPc43/logo-flutter-1080px-clr.png"></code>
 <code><img height="28" src="https://i.ibb.co/QD0gH2N/380-3804499-firebase-logo-google-logo-firebase-firebase-png.png"></code>
