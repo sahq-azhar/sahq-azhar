@@ -4,7 +4,7 @@
 <p align='center'>
 🚀 I’m a autodidactic Programmer, a Full stack developer and a Robotic enthusiast.<br>
          💡 I founded an App Development startup called ZN-Developers in 2018.<br>
-        🧠 focuses on Android Studio,Flutter,MATLAB <br>
+        🧠 focuses on Android Studio, Flutter, MATLAB   <br>
          💪 codes for contributing to life. contributing to the community
 
 
