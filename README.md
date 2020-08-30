@@ -1,11 +1,12 @@
 <h1 align='center'> <img src="https://raw.githubusercontent.com/sahq-azhar/sahq-azhar/master/Hi.gif" width="40px"> 🤖 Hey, This is Syed Azhar Hussain Quadri <img src="https://raw.githubusercontent.com/sahq-azhar/sahq-azhar/master/pacman.svg?sanitize=true" width="50" height="50"><br>aka-S.A.H.Q</h1><br>
 
 
-<p align='center'>       
- 🚀 I’m a autodidactic Programmer, a Full stack developer and a Robotic enthusiast.<br>
+<h3  align='center'>       
+ 🚀 I’m a Autodidactic Programmer, a Full stack developer and a Robotic enthusiast.<br>
          💡 I founded an App Development startup called ZN-Developers in 2018.<br>
         🧠 focuses on Android Studio, Flutter, MATLAB   <br>
          💪 codes for contributing to life. contributing to the community
+</h3>
 
 <p align='center'> 🔗 Connect with me on </p>
 
