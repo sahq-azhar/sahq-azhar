@@ -64,7 +64,7 @@
 </td>
 <td>
 <a href="https://github.com/sahq-azhar">
- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahq-azhar&theme=vue&layout=compact" />
+ <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahq-azhar&theme=radical&layout=compact&show_icons=true" />
 </a>
 </td>
 </table>
