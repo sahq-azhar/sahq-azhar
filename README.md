@@ -26,7 +26,9 @@
 
 **Other Link:**
 -----------------------------------------------------------------
-[![Stack Overflow: sahq_azhar](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/12240101/sahq-azhar)](https://stackoverflow.com/users/12240101/sahq-azhar)<br>
+<p align='left'>
+<a href="https://stackoverflow.com/users/12240101/sahq-azhar" target="_blank" title="LinkedIn"><img height="48"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"></a> &nbsp  <a href="https://in.mathworks.com/matlabcentral/profile/authors/11903638" target="_blank" title="Matlab"><img height="38"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></a>
+ </p>
 
 **Link to my Apps on Google Play Store:**
 -----------------------------------------------------------------
