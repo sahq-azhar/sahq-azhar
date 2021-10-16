@@ -27,7 +27,7 @@
 **Other Link:**
 -----------------------------------------------------------------
 <p align='left'>
-<a href="https://stackoverflow.com/users/12240101/sahq-azhar" target="_blank" title="Stackoverflow"><img height="30"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> &nbsp  <a href="https://in.mathworks.com/matlabcentral/profile/authors/11903638" target="_blank" title="Matlab"><img height="28"  src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg" ></a>
+<a href="https://stackoverflow.com/users/12240101/sahq-azhar" target="_blank" title="Stackoverflow"><img height="25"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> &nbsp  <a href="https://in.mathworks.com/matlabcentral/profile/authors/11903638" target="_blank" title="Matlab"><img height="23"  src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg" ></a>
  </p>
  
 
