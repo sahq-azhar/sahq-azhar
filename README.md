@@ -27,7 +27,7 @@
 **Other Link:**
 -----------------------------------------------------------------
 <p align='left'>
-<a href="https://stackoverflow.com/users/12240101/sahq-azhar" target="_blank" title="LinkedIn"><img height="48"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"></a> &nbsp  <a href="https://in.mathworks.com/matlabcentral/profile/authors/11903638" target="_blank" title="Matlab"><img height="38"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></a>
+<a href="https://stackoverflow.com/users/12240101/sahq-azhar" target="_blank" title="LinkedIn"><img height="30"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> &nbsp  <a href="https://in.mathworks.com/matlabcentral/profile/authors/11903638" target="_blank" title="Matlab"><img height="38"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></a>
  </p>
 
 **Link to my Apps on Google Play Store:**
