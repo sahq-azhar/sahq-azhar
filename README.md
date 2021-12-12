@@ -1,5 +1,9 @@
 <h1 align='center'> <img src="https://raw.githubusercontent.com/sahq-azhar/sahq-azhar/master/Hi.gif" width="40px"> 🤖 Hey, This is Syed Azhar Hussain Quadri <img src="https://raw.githubusercontent.com/sahq-azhar/sahq-azhar/master/pacman.svg?sanitize=true" width="50" height="50"><br>aka-S.A.H.Q</h1><br>
 
+<p align='center'>
+<a href="https://sahq-azhar.github.io/" target="_blank" title="LinkedIn"><img height="68"  src="https://i.ibb.co/G28nWz7/www.png"></a>  
+</p>
+
 
 <p style="font-size:30px"  align='center'>       
  🚀 I’m a Autodidactic Programmer, a Full stack developer and a Robotic enthusiast.<br>
